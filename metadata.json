@@ -1,0 +1,5 @@
+{
+  "name": "ENVIRIA Email Signature Generator",
+  "description": "Ein Werkzeug für Enviria-Mitarbeiter zur Erstellung ihrer standardisierten E-Mail-Signatur für Outlook.",
+  "requestFramePermissions": []
+}
